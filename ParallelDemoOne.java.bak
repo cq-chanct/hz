@@ -1,6 +1,5 @@
 package Thread;
 /**
- * 出现脏数据的处理过程
  * 线程并发时出现脏数据
  * @author Administrator
  *
